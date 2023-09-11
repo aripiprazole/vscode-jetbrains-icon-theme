@@ -285,7 +285,8 @@
     ".eslintrc.yaml": "file_eslint",
     ".eslintignore": "file_eslint",
     "dune": "file_dune",
-    "dune-project": "file_dune"
+    "dune-project": "file_dune",
+    ".cljstyle": "file_clojure"
   },
   "fileExtensions": {
     "edn": "file_clojure",
