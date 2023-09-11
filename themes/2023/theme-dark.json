@@ -182,6 +182,18 @@
     },
     "file_csproj": {
       "iconPath": "./icons/csproj_dark.svg"
+    },
+    "file_opam": {
+      "iconPath": "./icons/opam.svg"
+    },
+    "file_ocaml": {
+      "iconPath": "./icons/ocaml.svg"
+    },
+    "file_dune": {
+      "iconPath": "./icons/dune.svg"
+    },
+    "file_clojure": {
+      "iconPath": "./icons/clojure.svg"
     }
   },
   "file": "file_text",
@@ -235,9 +247,15 @@
     ".eslintrc.json": "file_eslint",
     ".eslintrc.yml": "file_eslint",
     ".eslintrc.yaml": "file_eslint",
-    ".eslintignore": "file_eslint"
+    ".eslintignore": "file_eslint",
+    "dune": "file_dune"
   },
   "fileExtensions": {
+    "dune": "file_dune",
+    "opam": "file_opam",
+    "ml": "file_ocaml",
+    "mli": "file_ocaml",
+    "clj": "file_clojure",
     "css": "file_css",
     "erb": "file_erb",
     "scss": "file_scss",
