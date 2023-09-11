@@ -293,6 +293,8 @@
   },
   "fileExtensions": {
     "iml": "file_iml",
+    "cljc": "file_clojure",
+    "cljs": "file_clojure",
     "edn": "file_clojure",
     "dune": "file_dune",
     "opam": "file_opam",

@@ -292,6 +292,8 @@
     ".cljstyle": "file_clojure"
   },
   "fileExtensions": {
+    "cljc": "file_clojure",
+    "cljs": "file_clojure",
     "iml": "file_iml",
     "edn": "file_clojure",
     "dune": "file_dune",
