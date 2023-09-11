@@ -223,6 +223,7 @@
     ".clj-kondo": "folder_exclude",
     ".gradle": "folder_exclude",
     "node_modules": "folder_exclude",
+    ".lsp": "folder_exclude",
     "_build": "folder_exclude",
     ".idea": "folder_exclude",
     ".vscode": "folder_exclude",
