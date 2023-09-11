@@ -248,7 +248,8 @@
     ".eslintrc.yml": "file_eslint",
     ".eslintrc.yaml": "file_eslint",
     ".eslintignore": "file_eslint",
-    "dune": "file_dune"
+    "dune": "file_dune",
+    "dune-project": "file_dune"
   },
   "fileExtensions": {
     "dune": "file_dune",
