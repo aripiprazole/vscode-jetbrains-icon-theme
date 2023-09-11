@@ -224,6 +224,7 @@
     ".gradle": "folder_exclude",
     "node_modules": "folder_exclude",
     ".lsp": "folder_exclude",
+    ".yarn": "folder_exclude",
     "_build": "folder_exclude",
     ".idea": "folder_exclude",
     ".vscode": "folder_exclude",
@@ -287,6 +288,7 @@
     "dune-project": "file_dune"
   },
   "fileExtensions": {
+    "edn": "file_clojure",
     "dune": "file_dune",
     "opam": "file_opam",
     "ml": "file_ocaml",
