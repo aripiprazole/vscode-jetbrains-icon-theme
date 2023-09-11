@@ -194,11 +194,36 @@
     },
     "file_clojure": {
       "iconPath": "./icons/clojure.svg"
+    },
+    "folder_src": {
+      "iconPath": "./icons/sourceRoot_dark.svg"
+    },
+    "folder_test": {
+      "iconPath": "./icons/testRoot_dark.svg"
+    },
+    "folder_exclude": {
+      "iconPath": "./icons/excludeRoot_dark.svg"
+    },
+    "folder_resource": {
+      "iconPath": "./icons/resourcesRoot_dark.svg"
+    },
+    "folder_test_resource": {
+      "iconPath": "./icons/testResourcesRoot_dark.svg"
     }
   },
   "file": "file_text",
   "folder": "folder",
-  "folderNames": {},
+  "folderNames": {
+    "src": "folder_src",
+    "lib": "folder_src",
+    "test": "folder_test",
+    "target": "folder_exclude",
+    "build": "folder_exclude",
+    ".next": "folder_exclude",
+    "out": "folder_exclude",
+    "resources": "folder_resource",
+    "test_resources": "folder_test_resource"
+  },
   "fileNames": {
     ".gitignore": "file_gitignore",
     ".gitattributes": "file_gitignore",
