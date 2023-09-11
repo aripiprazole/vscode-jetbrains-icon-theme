@@ -209,6 +209,9 @@
     },
     "folder_test_resource": {
       "iconPath": "./icons/testResourcesRoot.svg"
+    },
+    "folder_iml": {
+      "iconPath": "./icons/ideaModule.svg"
     }
   },
   "file": "file_text",
@@ -289,6 +292,7 @@
     ".cljstyle": "file_clojure"
   },
   "fileExtensions": {
+    "iml": "file_iml",
     "edn": "file_clojure",
     "dune": "file_dune",
     "opam": "file_opam",
