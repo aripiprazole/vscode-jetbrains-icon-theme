@@ -212,6 +212,9 @@
     },
     "file_iml": {
       "iconPath": "./icons/ideaModule_dark.svg"
+    },
+    "file_haskell": {
+      "iconPath": "./icons/haskell.svg"
     }
   },
   "file": "file_text",
@@ -235,6 +238,7 @@
     ".cpcache": "folder_exclude",
     ".fleet": "folder_exclude",
     "out": "folder_exclude",
+    ".stackwork": "folder_exclude",
     "resources": "folder_resource",
     "test_resources": "folder_test_resource"
   },
@@ -303,6 +307,7 @@
     "clj": "file_clojure",
     "css": "file_css",
     "erb": "file_erb",
+    "hs": "file_haskell",
     "scss": "file_scss",
     "sass": "file_scss",
     "kt": "file_kotlin",

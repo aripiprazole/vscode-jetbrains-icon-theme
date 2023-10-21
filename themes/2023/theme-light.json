@@ -212,6 +212,9 @@
     },
     "file_iml": {
       "iconPath": "./icons/ideaModule.svg"
+    },
+    "file_haskell": {
+      "iconPath": "./icons/haskell.svg"
     }
   },
   "file": "file_text",
@@ -372,6 +375,7 @@
     "rs": "file_rust",
     "cs": "file_cs",
     "cshtml": "file_cshtml",
-    "csproj": "file_csproj"
+    "csproj": "file_csproj",
+    "hs": "file_haskell"
   }
 }
